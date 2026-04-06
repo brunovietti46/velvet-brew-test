@@ -1,0 +1,77 @@
+{
+  "brandKit": {
+    "id": "fd6d04d0-f221-4ffc-a159-ecfa2710fc40",
+    "name": "Telegram Assets",
+    "colors": [],
+    "assets": [
+      {
+        "id": "2aca7dd7-e8f1-4986-aab3-49ed309ae84f",
+        "fileName": "telegram-1775339760420.jpg",
+        "assetType": "image",
+        "mimeType": "image/jpeg",
+        "metadata": {
+          "kind": "image",
+          "aspectRatio": "square",
+          "variants": [
+            {
+              "width": 626,
+              "height": 626,
+              "purpose": "original",
+              "fileName": "telegram-1775339760420-original.png",
+              "mimeType": "image/png",
+              "storageKey": "brand-kits/566cc331-fc67-46f2-920f-c8f9e187c2ac/fd6d04d0-f221-4ffc-a159-ecfa2710fc40/telegram-1775339760420-original.png",
+              "fileSizeBytes": 49994
+            }
+          ],
+          "aiAnalysis": {
+            "hasText": true,
+            "description": "A vintage-style coffee shop logo template on a deep red/burgundy background. The design features a vertical oval badge containing line-art illustrations: a steaming coffee cup at the top, coffee plant sprouts on the left, coffee beans on the right, and a decorative arch/window frame at the top of the oval. Text 'ESTD 2022' appears inside the badge. Below the badge, placeholder text reads 'lorem ipsum' in a bold serif font and 'dolor sit amet' in a smaller sans-serif. The entire illustration uses a warm cream/gold (#D4B483) monoline style against the red background. The composition is square and centered.",
+            "textContent": "ESTD 2022 lorem ipsum dolor sit amet",
+            "dominantColors": [
+              "#8B2020",
+              "#D4B483",
+              "#C0392B"
+            ],
+            "recommendations": {
+              "bestFor": [
+                "hero",
+                "favicon",
+                "content"
+              ],
+              "usageNotes": "This is a square logo/badge template best suited as a hero branding element or profile image for a coffee shop website. The deep red background is baked into the image, so place it on similarly dark or contrasting surfaces. If used as a favicon, ensure the oval badge icon area remains legible at small sizes (recommend cropping to the badge only for favicon use). Replace placeholder 'lorem ipsum' text with actual brand name before deployment. The warm cream-on-red color scheme pairs well with dark-themed coffee or food & beverage websites.",
+              "themeVariant": "dark",
+              "notSuitableFor": [
+                "navbar",
+                "background"
+              ]
+            }
+          }
+        }
+      },
+      {
+        "id": "font-roboto-condensed",
+        "fileName": "Roboto Condensed",
+        "assetType": "font",
+        "mimeType": "font/google",
+        "metadata": {
+          "kind": "font",
+          "source": "google-fonts",
+          "familyName": "Roboto Condensed",
+          "category": "sans-serif",
+          "weight": 400,
+          "selectedWeights": [
+            100,
+            200,
+            300,
+            400,
+            500,
+            600,
+            700,
+            800,
+            900
+          ]
+        }
+      }
+    ]
+  }
+}
